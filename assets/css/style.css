@@ -46,6 +46,11 @@ header{
     /* transform: translateZ(2rem) !important; */
 }
 
+.role{
+    color:#737373 !important;
+     margin-bottom: 2px !important;
+}
+
 .brand-name{
     color: white !important;
     font-size: 3.5rem !important;
@@ -96,4 +101,10 @@ header{
     body{
         padding: .5rem;
     }
+
+    .tags {
+        display: flex ;
+        justify-content: center;
+    }
+
   }
