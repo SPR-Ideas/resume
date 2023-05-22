@@ -1,0 +1,54 @@
+.about-me{
+    background-color:#252525 !important;
+    /* height: 4rem !important; */
+    color: whitesmoke;
+    padding: 4rem;
+    padding-left: 5rem !important;
+
+    border-top: 1.5px    solid #ffffff2c ;
+    border-bottom: 1.5px solid #ffffff2c ;
+
+}
+
+.v-div{
+    padding-top: 2rem !important;
+    color:white !important;
+}
+.v-div .description{
+    padding: 1rem !important;
+    border-left: 1.5px solid #ffffff2c;
+    border-bottom: 1.5px solid #ffffff2c;
+}
+.badge-title{
+    /* justify-content: space-around; */
+    margin-bottom: 1rem !important;
+    margin-left: -2rem ;
+
+}
+.badge{
+    border: 2px solid #0d6abf;
+    padding: 0.5rem 1rem 0.5rem 1rem  !important;
+    padding-bottom: 0.5 !important;
+    /* margin-bottom: 1rem !important;
+    margin-left: -3rem !important; */
+    background-color: #252525;
+}
+.badge-title .Name{
+    color:#737373;
+    margin-left: 2rem !important;
+}
+
+.progress{
+    height: .5rem !important;
+}
+.progression-custom{
+    background-color: #0d6abf !important;
+}
+.skill-img{
+    height: 2rem !important;
+    width: 2rem !important;
+    margin-right: 1rem;
+}
+.FrameWorks .progression-custom {
+    background-color: #7066ff !important;
+}
