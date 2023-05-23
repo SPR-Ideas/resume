@@ -1,0 +1,40 @@
+/* .item{
+    background-color: teal !important;
+} */
+
+.owl-carousel{
+    /* height: 50vh !important; */
+    height: 280px !important;
+    overflow: hidden !important;
+
+}
+img:hover{
+    transition: 300ms ease-in;
+    transform: scale(1.1);
+}
+#awards{
+    transform: translateY(-10%) !important;
+}
+.content-body{
+    padding: 3rem !important;
+    padding-top: 1rem !important;
+}
+
+@media (max-width: 576px) {
+    .owl-carousel{
+        /* height: 50vh !important; */
+        height: 120px !important;
+        overflow: hidden !important;
+
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+
+    .owl-carousel{
+        /* height: 50vh !important; */
+        height: 210px !important;
+        overflow: hidden !important;
+
+    }
+}
