@@ -1,6 +1,36 @@
 /* .item{
     background-color: teal !important;
 } */
+.about-me{
+    background-color:#252525 !important;
+    /* height: 4rem !important; */
+    color: whitesmoke;
+    padding: 4rem;
+    padding-left: 5rem !important;
+
+    border-top: 1.5px    solid #ffffff2c ;
+    border-bottom: 1.5px solid #ffffff2c ;
+
+}
+i{
+    color: #0d6abf !important;
+    margin-top: .5rem !important;
+}
+
+.Name {
+    padding-left: 1.2rem !important;
+    font-size: 1.4rem !important;
+}
+
+.v-div{
+    padding-top: 2rem !important;
+    color:white !important;
+}
+.v-div .description{
+    padding: 1rem !important;
+
+}
+
 
 .owl-carousel{
     /* height: 50vh !important; */
